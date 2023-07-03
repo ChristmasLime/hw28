@@ -1,4 +1,4 @@
 package org.HomeWork28.list;
 
-public class IntegerListImpl {
+public class IntegerListImpl implements IntegerList {
 }
